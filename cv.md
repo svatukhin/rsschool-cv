@@ -7,12 +7,10 @@
 - Communicative / positive 
 - Stress resistant
 - Team player
-- Experienced in conflict management - I'm not afraid to take responsibility
-
+- Experienced in conflict management - I'm not afraid to take responsibility <br>
 **Hard-skills:** 
 - HTML
-- CSS
-
+- CSS <br>
 **Code examples:**
 ```HTML
    <div class="cat-reference">
@@ -46,6 +44,6 @@
       </div>
     </div>
 ```
-**Experience:** I have completed two simple adaptive websites. [Link!](https://svatukhin.github.io/) to one of the sites. 
-**Education:** HTML Academy, Codecademy 
-**Englsih:** Intermediate+
+**Experience:** I have completed two simple adaptive websites. [Link](https://svatukhin.github.io/) to one of the sites. <br> 
+**Education:** HTML Academy, Codecademy <br>
+**Englsih:** Intermediate+ <br>
