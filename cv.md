@@ -1,11 +1,8 @@
 **CV - Svatukhin Andrei**
 
-**Phone number:** +375 44 774-92-31
-
-**Goals and wishes:** I'd like to try myself as a Front-End developer.
-
-**Self-presentation:** I'm highly motivated and ready to learn a lot on my own.
-
+**Phone number:** +375 44 774-92-31 
+**Goals and wishes:** I'd like to try myself as a Front-End developer. 
+**Self-presentation:** I'm highly motivated and ready to learn a lot on my own. 
 **Soft-skills:**
 - Communicative / positive
 - Stress resistant
@@ -49,8 +46,6 @@
       </div>
     </div>
 ```
-**Experience:** I have completed two simple adaptive websites.[Link:!](https://svatukhin.github.io/)to one of the sites.
-
-**Education:** HTML Academy, Codecademy
-
+**Experience:** I have completed two simple adaptive websites.[Link:!](https://svatukhin.github.io/)to one of the sites. 
+**Education:** HTML Academy, Codecademy 
 **Englsih:** Intermediate+
