@@ -1,15 +1,53 @@
-#CV - Svatukhin Artem#
-##Phone number:## +375 44 7759231
-##Goals and wishes:## I'd like to try myself as a Front-End developer.
-##Self-presentation:## I'm highly motivated and ready to learn a lot on my own.
-##Soft-skills:##
+**CV - Svatukhin Andrei**
 
-Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
-learning new things from everywhere etc.).
-4. Skills (e.g. programming languages, frameworks, methodologies, version control, tools etc.)
-5. Code examples (LATEST)
-6. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
-freelance projects - wherever they had the opportunity to demonstrate skills they have.
-Also it would be awesome if you add links to source code)
-7. Education (including courses, seminars, lectures, online learning)
-8. English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
+**Phone number:** +375 44 774-92-31
+**Goals and wishes:** I'd like to try myself as a Front-End developer.
+**Self-presentation:** I'm highly motivated and ready to learn a lot on my own.
+
+**Soft-skills:**
+- Communicative / positive
+- Stress resistant
+- Team player
+- Experienced in conflict management - I'm not afraid to take responsibility
+
+**Hard-skills:**
+- HTML
+- CSS
+
+**Code examples:**
+```HTML
+   <div class="cat-reference">
+      <div class="container">
+        <div class="cat-reference-header">
+          <h2 class="section-title">Немного теории</h2>
+          <a class="btn" href="#" title="Открыть справочник">Справка</a>
+        </div>
+        <dl>
+          <div class="theory-container">
+            <dt class="reference-title">
+              Окрас кошек и котов
+              <i class="reference-source">источник: <a target="_blank" href="https://ru.wikipedia.org">wikipedia</a></i>
+            </dt>
+            <dd>
+              <img src="img/article-1.jpg" alt="Окрас кошек и котов" width="100" height="100">
+              <p>Окрас шерсти, кожи и глаз кошки обусловлен присутствием в них пигмента меланина. Меланин находится в теле волоса в виде микроскопических гранул, которые различаются по форме, размеру и количеству, что и вызывает различия в окрасе.</p>
+            </dd>
+          </div>
+          <div class="theory-container">
+            <dt class="reference-title">
+              Кошкин дом
+              <i class="reference-source">источник: <a target="_blank" href="http://kotmur.spb.ru">kotmur.spb.ru</a></i>
+            </dt>
+            <dd>
+              <img src="img/article-2.jpg" alt="Кошкин дом" width="100" height="100">
+              <p>Нужен ли кошке Кошкин дом? Свой отдельный, обособленный от пространства городской квартиры Кошкин дом? Да, нужен! Нужен особый Кошкин дом, обустроенный по ее вкусу с лесенкой, с когтеточкой, с замкнутым, своим, отдельным уголком в ее, кошкином, доме.</p>
+            </dd>
+          </div>
+        </dl>
+      </div>
+    </div>
+```
+**Experience:** I have completed two simple adaptive websites.[Link:!](https://svatukhin.github.io/)to one of the sites.
+**Education:** HTML Academy, Codecademy
+**Englsih:** Intermediate+
+
