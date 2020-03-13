@@ -3,15 +3,14 @@
 **Phone number:** +375 44 774-92-31 <br>
 **Goals and wishes:** I'd like to try myself as a Front-End developer. <br>
 **Self-presentation:** I'm highly motivated and ready to learn a lot on my own. <br>
-
-**Skills:** <br>
-Soft-skills:
+**Skills:**
+Soft:
 * Communicative / positive 
 * Stress resistant
 * Team player
 * Experienced in conflict management - I'm not afraid to take responsibility
 
-Hard-skills:
+Hard:
 * HTML
 * CSS
 
