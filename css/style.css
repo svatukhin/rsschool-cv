@@ -1,5 +1,4 @@
 body {
-  
   margin: 0;
   padding: 0;
   font-size: 16px;
@@ -22,4 +21,15 @@ body {
 
 .header {
   display: flex;
+}
+
+.header img {
+  height: 200px;
+  margin-right: 40px;
+}
+
+.additional-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
